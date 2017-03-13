@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://laollaarequipena.com" resolutions="1x" timestamp="1489432640843">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://laollaarequipena.com" resolutions="1x" timestamp="1489435016913">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4048373768" ref="index:reservas:carta"/>
-    <file name="index.css" crc="235690945" ref="index"/>
+    <file name="index.css" crc="351610240" ref="index"/>
     <file name="iefonts_index.css" crc="230075827" ref="index"/>
     <file name="reservas.css" crc="97070140" ref="reservas"/>
     <file name="iefonts_reservas.css" crc="140407479" ref="reservas"/>
@@ -54,7 +54,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="dobles y triples-u13527-fr.jpg" crc="4132903073" ref="phone>index"/>
-    <file name="_dsc2806-u13543-fr.jpg" crc="48897867" ref="phone>index:tablet>index:index"/>
     <file name="4 (copiar).jpg" crc="491594031" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -77,10 +76,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="costillar de corder380x256.jpg" crc="4000238411" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_dsc2796.jpg" crc="4226984073" ref="phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="criollos-u13525-fr.jpg" crc="4253767103" ref="phone>index"/>
@@ -143,7 +138,12 @@
     <file name="_dsc2806.jpg" crc="150400100" ref="reservas">
       <caption webpage="reservas" alt=""/>
     </file>
-    <file name="_dsc2791.jpg" crc="4058163523" ref="index">
+    <file name="dsc2806-u13543-fr.jpg" crc="40017560" ref="phone>index:tablet>index:index"/>
+    <file name="dsc2791-u13529-fr.jpg" crc="4013682203" ref="phone>index"/>
+    <file name="dsc2806.jpg" crc="446629100" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc2791.jpg" crc="4058163523" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
@@ -151,12 +151,12 @@
     <folder name="css">
       <file name="master_a-master.css" crc="334734311" ref="tablet>carta:tablet>index:tablet>reservas"/>
       <file name="carta.css" crc="335612344" ref="tablet>carta"/>
-      <file name="index.css" crc="327895497" ref="tablet>index"/>
+      <file name="index.css" crc="4021526935" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="3839939173" ref="tablet>index"/>
       <file name="reservas.css" crc="124398569" ref="tablet>reservas"/>
       <file name="iefonts_reservas.css" crc="31121986" ref="tablet>reservas"/>
     </folder>
-    <file name="index.html" crc="131060944" seo="true" mt="1489432452247" redirect="true"/>
+    <file name="index.html" crc="3986382419" seo="true" mt="1489435011379" redirect="true"/>
     <file name="carta.html" crc="4179876004" seo="true" mt="1489432452247" redirect="true"/>
     <file name="reservas.html" crc="432459733" seo="true" mt="1489432452247" redirect="true"/>
   </folder>
@@ -164,16 +164,16 @@
     <folder name="css">
       <file name="master_a-master.css" crc="378839916" ref="phone>carta:phone>index:phone>reservas"/>
       <file name="carta.css" crc="461136612" ref="phone>carta"/>
-      <file name="index.css" crc="3892373109" ref="phone>index"/>
+      <file name="index.css" crc="4263255699" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4055370346" ref="phone>index"/>
       <file name="reservas.css" crc="425966669" ref="phone>reservas"/>
       <file name="iefonts_reservas.css" crc="4191073547" ref="phone>reservas"/>
     </folder>
-    <file name="index.html" crc="33247057" seo="true" mt="1489432464622" redirect="true"/>
+    <file name="index.html" crc="202013098" seo="true" mt="1489435011372" redirect="true"/>
     <file name="reservas.html" crc="3769366987" seo="true" mt="1489432464622" redirect="true"/>
     <file name="carta.html" crc="46888745" seo="true" mt="1489432464622" redirect="true"/>
   </folder>
-  <file name="index.html" crc="17143340" seo="true" mt="1489432429581" redirect="true"/>
+  <file name="index.html" crc="345745814" seo="true" mt="1489435011383" redirect="true"/>
   <file name="carta.html" crc="521460621" seo="true" mt="1489432429581" redirect="true"/>
   <file name="reservas.html" crc="4175368972" seo="true" mt="1489432429581" redirect="true"/>
 </manifest>
