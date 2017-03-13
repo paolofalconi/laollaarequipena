@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://laollaarequipena.com/index.html</loc>
+    <lastmod>2017-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://laollaarequipena.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://laollaarequipena.com/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://laollaarequipena.com/images/chupe%20de%20camarones.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laollaarequipena.com/images/costillar%20de%20corder360x243.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://laollaarequipena.com/carta.html</loc>
+    <lastmod>2017-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://laollaarequipena.com/phone/carta.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://laollaarequipena.com/tablet/carta.html"/>
+  </url>
+  <url>
+    <loc>http://laollaarequipena.com/reservas.html</loc>
+    <lastmod>2017-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://laollaarequipena.com/phone/reservas.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://laollaarequipena.com/tablet/reservas.html"/>
+  </url>
+  <url>
+    <loc>http://laollaarequipena.com/assets/video-convertido.mp4</loc>
+    <lastmod>2017-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

@@ -1,0 +1,177 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://laollaarequipena.com" resolutions="1x" timestamp="1489424867017">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4048373768" ref="index:reservas:carta"/>
+    <file name="index.css" crc="189861315" ref="index"/>
+    <file name="iefonts_index.css" crc="230075827" ref="index"/>
+    <file name="reservas.css" crc="3771613895" ref="reservas"/>
+    <file name="iefonts_reservas.css" crc="140407479" ref="reservas"/>
+    <file name="carta.css" crc="4033512949" ref="carta"/>
+  </folder>
+  <folder name="assets">
+    <file name="video-convertido.mp4" crc="10182037" seo="true" mt="1485765662000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>reservas:phone>carta:tablet>index:tablet>carta:tablet>reservas:index:carta:reservas"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>reservas:phone>carta:tablet>index:tablet>carta:tablet>reservas:index:carta:reservas"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>reservas:phone>carta:tablet>index:tablet>carta:tablet>reservas:index:carta:reservas"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>reservas:phone>carta:tablet>index:tablet>carta:tablet>reservas:index:carta:reservas"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:phone>carta:tablet>index:tablet>carta:index:carta:reservas"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="phone>index:phone>reservas:phone>carta:tablet>index:tablet>carta:tablet>reservas:index:carta:reservas"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>reservas:phone>carta:tablet>index:tablet>carta:tablet>reservas:index:carta:reservas"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>index:phone>reservas:tablet>index:tablet>reservas:index:reservas"/>
+    <file name="form_check.php" crc="3841221102" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="phone>index"/>
+    <file name="form_process.php" crc="3899230280" ref="phone>index"/>
+    <file name="form-u13615.php" crc="3971781967" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>reservas:phone>carta:tablet>index:tablet>carta:tablet>reservas:index:carta:reservas"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>reservas:phone>carta:tablet>index:tablet>carta:tablet>reservas:index:carta:reservas"/>
+    <file name="form-u15164.php" crc="313500993" ref="phone>reservas"/>
+    <file name="form-u15201.php" crc="136592957" ref="phone>reservas"/>
+    <file name="form-u15238.php" crc="377788410" ref="phone>reservas"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="tablet>index:index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="tablet>index:index"/>
+    <file name="form-u10689.php" crc="4149342900" ref="tablet>index"/>
+    <file name="form-u12873.php" crc="3779298057" ref="tablet>reservas"/>
+    <file name="form-u12910.php" crc="3836509684" ref="tablet>reservas"/>
+    <file name="form-u12947.php" crc="511736979" ref="tablet>reservas"/>
+    <file name="form-u4571.php" crc="183514605" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="form-u10012.php" crc="3934457118" ref="reservas"/>
+    <file name="form-u10132.php" crc="3943300510" ref="reservas"/>
+    <file name="form-u10377.php" crc="129098063" ref="reservas"/>
+  </folder>
+  <folder name="images">
+    <file name="olla logo.png" crc="151695651" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dobles y triples-u13527-fr.jpg" crc="4132903073" ref="phone>index"/>
+    <file name="_dsc2806-u13543-fr.jpg" crc="48897867" ref="phone>index:tablet>index:index"/>
+    <file name="4 (copiar).jpg" crc="491594031" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rocoto relleno.jpg" crc="4232467606" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carta plato de fondo.jpg" crc="4057765850" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chupe de camarones.jpg" crc="4234785341" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="costillar de corder380x256.jpg" crc="4000238411" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_dsc2796.jpg" crc="4226984073" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="criollos-u13525-fr.jpg" crc="4253767103" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>reservas:tablet>reservas"/>
+    <file name="u13917.png" crc="4194216205" ref="phone>index"/>
+    <file name="u13917-r.png" crc="4194216205" ref="phone>index"/>
+    <file name="u13905.png" crc="4231350681" ref="phone>index"/>
+    <file name="u13905-r.png" crc="4231350681" ref="phone>index"/>
+    <file name="u13907.png" crc="126517368" ref="phone>index"/>
+    <file name="u13907-r.png" crc="126517368" ref="phone>index"/>
+    <file name="u15278.png" crc="4231350681" ref="phone>reservas"/>
+    <file name="u15278-r.png" crc="4231350681" ref="phone>reservas"/>
+    <file name="u15280.png" crc="126517368" ref="phone>reservas"/>
+    <file name="u15280-r.png" crc="126517368" ref="phone>reservas"/>
+    <file name="entradas ( rocoto relleno).jpg" crc="4242210202" ref="phone>carta:tablet>carta">
+      <caption webpage="carta" alt=""/>
+    </file>
+    <file name="chupe.jpg" crc="204723841" ref="phone>carta:tablet>carta">
+      <caption webpage="carta" alt=""/>
+    </file>
+    <file name="platos de fondo camarones pescados y mariscos.jpg" crc="126263280" ref="phone>carta:tablet>carta">
+      <caption webpage="carta" alt=""/>
+    </file>
+    <file name="dobles y triples.jpg" crc="4008559130" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="costillar de corder.jpg" crc="4225798656" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="criollos.jpg" crc="370663602" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4418-u10679-fr.jpg" crc="289174740" ref="tablet>index"/>
+    <file name="25.jpg" crc="4269168044" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u13228.png" crc="4231350681" ref="tablet>reservas"/>
+    <file name="u13228-r.png" crc="4231350681" ref="tablet>reservas"/>
+    <file name="u13264.png" crc="126517368" ref="tablet>reservas"/>
+    <file name="u13264-r.png" crc="126517368" ref="tablet>reservas"/>
+    <file name="costillar de corder360x243.jpg" crc="4104899070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial_1.jpg" crc="359985122" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial_2.jpg" crc="359985122" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial_3.jpg" crc="359985122" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_dsc2806-u4500-fr.jpg" crc="3888761313" ref="index"/>
+    <file name="img_4418.jpg" crc="4284459727" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="entradas ( rocoto relleno)-u8379-fr.jpg" crc="188924064" ref="carta"/>
+    <file name="chupe-u8475-fr.jpg" crc="3865492247" ref="carta"/>
+    <file name="platos de fondo camarones pescados y mariscos-u8996-fr.jpg" crc="358951709" ref="carta"/>
+    <file name="_dsc2806.jpg" crc="150400100" ref="reservas">
+      <caption webpage="reservas" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="334734311" ref="tablet>carta:tablet>index:tablet>reservas"/>
+      <file name="carta.css" crc="3858404556" ref="tablet>carta"/>
+      <file name="index.css" crc="433462667" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3839939173" ref="tablet>index"/>
+      <file name="reservas.css" crc="110085391" ref="tablet>reservas"/>
+      <file name="iefonts_reservas.css" crc="31121986" ref="tablet>reservas"/>
+    </folder>
+    <file name="index.html" crc="4067054387" seo="true" mt="1486659228560" redirect="true"/>
+    <file name="carta.html" crc="501781208" seo="true" mt="1486660253245" redirect="true"/>
+    <file name="reservas.html" crc="4190788597" seo="true" mt="1485836198918" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="378839916" ref="phone>carta:phone>index:phone>reservas"/>
+      <file name="carta.css" crc="4037393767" ref="phone>carta"/>
+      <file name="index.css" crc="131670592" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4055370346" ref="phone>index"/>
+      <file name="reservas.css" crc="526911411" ref="phone>reservas"/>
+      <file name="iefonts_reservas.css" crc="4191073547" ref="phone>reservas"/>
+    </folder>
+    <file name="index.html" crc="4276770665" seo="true" mt="1486659188854" redirect="true"/>
+    <file name="reservas.html" crc="3779350553" seo="true" mt="1486654801635" redirect="true"/>
+    <file name="carta.html" crc="4631394" seo="true" mt="1486660431594" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="409396483" seo="true" mt="1486658851173" redirect="true"/>
+  <file name="carta.html" crc="405056930" seo="true" mt="1486659954330" redirect="true"/>
+  <file name="reservas.html" crc="33459731" seo="true" mt="1485822536196" redirect="true"/>
+</manifest>
