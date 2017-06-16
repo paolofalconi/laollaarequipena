@@ -13,6 +13,9 @@
     <image:image>
       <image:loc>http://laollaarequipena.com/images/costillar%20de%20corder360x243.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://laollaarequipena.com/images/facebook-logo.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://laollaarequipena.com/carta.html</loc>
@@ -63,14 +66,20 @@
     <image:image>
       <image:loc>http://laollaarequipena.com/images/carta%2014.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://laollaarequipena.com/images/facebook-logo.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://laollaarequipena.com/reservas.html</loc>
-    <lastmod>2017-05-07</lastmod>
+    <lastmod>2017-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://laollaarequipena.com/phone/reservas.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://laollaarequipena.com/tablet/reservas.html"/>
+    <image:image>
+      <image:loc>http://laollaarequipena.com/images/facebook-logo.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://laollaarequipena.com/assets/video-convertido.mp4</loc>
