@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://laollaarequipena.com" resolutions="1x" timestamp="1497641423072">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://laollaarequipena.com" resolutions="1x" timestamp="1497643788064">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="365435135" ref="index:reservas:carta"/>
-    <file name="index.css" crc="328092594" ref="index"/>
+    <file name="master_a-master.css" crc="501078767" ref="index:reservas:carta"/>
+    <file name="index.css" crc="3953296180" ref="index"/>
     <file name="iefonts_index.css" crc="257624737" ref="index"/>
-    <file name="reservas.css" crc="4018681251" ref="reservas"/>
+    <file name="reservas.css" crc="151563604" ref="reservas"/>
     <file name="iefonts_reservas.css" crc="209873502" ref="reservas"/>
-    <file name="carta.css" crc="442330339" ref="carta"/>
+    <file name="carta.css" crc="4261745548" ref="carta"/>
   </folder>
   <folder name="assets">
     <file name="video-convertido.mp4" crc="10182037" seo="true" mt="1485765662000"/>
@@ -260,45 +260,45 @@
     <file name="carta 14.jpg" crc="3939138786" seo="true" ref="carta">
       <caption webpage="carta" alt=""/>
     </file>
-    <file name="facebook-logo.png" crc="4258044440" seo="true" ref="phone>index:phone>reservas:phone>carta:tablet>index:tablet>carta:tablet>reservas:index:carta:reservas">
+    <file name="facebook-logo.png" crc="4059015192" seo="true" ref="phone>index:phone>reservas:phone>carta:tablet>index:tablet>carta:tablet>reservas:index:carta:reservas">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="carta" alt=""/>
-      <caption webpage="carta" alt=""/>
-      <caption webpage="carta" alt=""/>
       <caption webpage="reservas" alt=""/>
       <caption webpage="reservas" alt=""/>
       <caption webpage="reservas" alt=""/>
+      <caption webpage="carta" alt=""/>
+      <caption webpage="carta" alt=""/>
+      <caption webpage="carta" alt=""/>
     </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="302018129" ref="tablet>carta:tablet>index:tablet>reservas"/>
-      <file name="carta.css" crc="232834287" ref="tablet>carta"/>
-      <file name="index.css" crc="472888384" ref="tablet>index"/>
+      <file name="master_a-master.css" crc="4155161367" ref="tablet>carta:tablet>index:tablet>reservas"/>
+      <file name="carta.css" crc="4214801794" ref="tablet>carta"/>
+      <file name="index.css" crc="4090841823" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="4006521509" ref="tablet>index"/>
-      <file name="reservas.css" crc="203577041" ref="tablet>reservas"/>
+      <file name="reservas.css" crc="154015958" ref="tablet>reservas"/>
       <file name="iefonts_reservas.css" crc="146264122" ref="tablet>reservas"/>
     </folder>
-    <file name="index.html" crc="39808843" seo="true" mt="1497641361363" redirect="true"/>
-    <file name="carta.html" crc="3901318445" seo="true" mt="1497641361363" redirect="true"/>
-    <file name="reservas.html" crc="9868733" seo="true" mt="1497641361363" redirect="true"/>
+    <file name="index.html" crc="225081522" seo="true" mt="1497643703129" redirect="true"/>
+    <file name="carta.html" crc="123568826" seo="true" mt="1497643703129" redirect="true"/>
+    <file name="reservas.html" crc="345077805" seo="true" mt="1497643703129" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4085902542" ref="phone>carta:phone>index:phone>reservas"/>
-      <file name="carta.css" crc="3910058115" ref="phone>carta"/>
-      <file name="index.css" crc="94801996" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="4283375759" ref="phone>index"/>
-      <file name="reservas.css" crc="3860312928" ref="phone>reservas"/>
-      <file name="iefonts_reservas.css" crc="3909324402" ref="phone>reservas"/>
+      <file name="master_a-master.css" crc="491581581" ref="phone>carta:phone>index:phone>reservas"/>
+      <file name="carta.css" crc="4008108796" ref="phone>carta"/>
+      <file name="index.css" crc="4280074609" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4280674147" ref="phone>index"/>
+      <file name="reservas.css" crc="317658551" ref="phone>reservas"/>
+      <file name="iefonts_reservas.css" crc="4281603533" ref="phone>reservas"/>
     </folder>
-    <file name="index.html" crc="310522368" seo="true" mt="1497641328807" redirect="true"/>
-    <file name="reservas.html" crc="208094918" seo="true" mt="1497641328807" redirect="true"/>
-    <file name="carta.html" crc="4091107705" seo="true" mt="1497641328807" redirect="true"/>
+    <file name="index.html" crc="3988183104" seo="true" mt="1497643742232" redirect="true"/>
+    <file name="reservas.html" crc="238455331" seo="true" mt="1497643742232" redirect="true"/>
+    <file name="carta.html" crc="454362242" seo="true" mt="1497643742232" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3832288081" seo="true" mt="1497641393220" redirect="true"/>
-  <file name="carta.html" crc="367902735" seo="true" mt="1497641393220" redirect="true"/>
-  <file name="reservas.html" crc="489990603" seo="true" mt="1497641393220" redirect="true"/>
+  <file name="index.html" crc="507293031" seo="true" mt="1497643677369" redirect="true"/>
+  <file name="carta.html" crc="4251284363" seo="true" mt="1497643677369" redirect="true"/>
+  <file name="reservas.html" crc="108813744" seo="true" mt="1497643677369" redirect="true"/>
 </manifest>
